@@ -1,7 +1,7 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: trade SALT
+title: Kevin Pettit
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 analytics: UA-50546869-2
 baseurl: "/solid-jekyll" #important: start with /
@@ -43,7 +43,7 @@ address:
     - Sutter St,
     - SF, 94109
     - United States.
-email: sales@tradesalt.com
+email: kevin@cannedreporting.com
 tel: +1 415-555-1212
 
 
